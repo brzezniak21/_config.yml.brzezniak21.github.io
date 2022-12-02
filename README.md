@@ -1,5 +1,5 @@
-# brzezniak21.github.io
-## Jakub Brzeźniak
+
+# Jakub Brzeźniak
 ### Wykształcenie:
 * Absolwent IV LO w Krakowie.
 * Student Informatyki i Systemów Inteligentnych na wydziale EAIIB na AGH w Krakowie.
